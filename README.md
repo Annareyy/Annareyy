@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Annareyy
 - 👀 I’m interested in Cybersecurity.
-- 🌱 I’m currently learning VAPT.
+- 🌱 I’m currently learning software engineering.
 - 😄 Pronouns: She/her
 
 
