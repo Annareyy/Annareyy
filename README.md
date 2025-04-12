@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Annareyy
+- 👋 Hi, I’m Anne
 - 👀 I’m interested in Cybersecurity.
 - 🌱 I’m currently learning software engineering.
 - 😄 Pronouns: She/her
