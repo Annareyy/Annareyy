@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anne
-- 👀 I’m interested in Cybersecurity.
+- 👀 Cybersecurity Professional.
 - 🌱 I’m currently learning software engineering.
 - 😄 Pronouns: She/her
 
